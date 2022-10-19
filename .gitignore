@@ -1,5 +1,5 @@
 simulator/.idea
 simulator/.vscode
-simulator/.env
+# simulator/.env
 .history/
 _files
